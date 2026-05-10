@@ -1,0 +1,7 @@
+com\mycompany\neo4jcrud\controlador\PersonasController.class
+com\mycompany\neo4jcrud\modelo\PersonaRequest.class
+com\mycompany\neo4jcrud\modelo\Persona.class
+com\mycompany\neo4jcrud\JakartaRestConfiguration.class
+com\mycompany\neo4jcrud\bean\neo4jBean.class
+com\mycompany\neo4jcrud\persistencia\PersonaDB.class
+com\mycompany\neo4jcrud\resources\JakartaEE11Resource.class
